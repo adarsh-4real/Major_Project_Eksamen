@@ -1,1 +1,1 @@
-# Major_Project_Eksamen
+Eksamen is an application software which is used to computerize the manual university examination paper tallying procedures. dogitalizing the form reduces the administrative burden, also much easier to complete the procedure within limlited time. 
